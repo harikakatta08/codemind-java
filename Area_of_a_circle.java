@@ -5,7 +5,7 @@ public class sum
     {
         Scanner sc=new Scanner(System.in);
         double area;
-    int r;
+        int r;
         r=sc.nextInt();
         area=3.14*r*r;
         System.out.printf("%.2f",area);
